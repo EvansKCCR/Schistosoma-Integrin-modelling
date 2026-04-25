@@ -1,0 +1,5 @@
+seq_id,group,length,tail_start_1based,GFFKR_count,GFFRS_count,GFFRR_count,GFF_relaxed_count,GFFKR_family_expanded_count,FGGAP_heuristic_count,NXS_T_count,Ca_Dx[DN]xDG_count,Ca_NxDxxxD_count,alphaI_DXSXS_count,alphaI_DXSXT_count,HENLA_count,DIDGDGID_count
+Smp_126140.1,all,1372,1339,0,0,0,0,1,2,13,0,0,0,0,0,0
+Smp_170280.1,all,1535,1367,0,0,0,0,1,1,21,0,0,0,0,1,1
+Smp_245490.1,all,1467,1336,0,0,1,0,0,0,18,0,1,0,0,0,0
+Smp_306910.1,all,1286,1203,1,0,0,0,0,3,11,0,2,0,0,0,0

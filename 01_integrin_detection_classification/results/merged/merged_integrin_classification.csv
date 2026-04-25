@@ -1,0 +1,6 @@
+seq_id,group,Length,alpha_functional_group,alpha_reason,length,beta_functional_group,beta_reason,subunit
+Smp_089700.1,parasite,,,,825.0,β-tail: NPxF-dominant | βI MIDAS: DXSXT-only,"NPxY=0, NPxF=2, DXSXS=0, DXSXT=1; NPxF flanks: moderate S/T (mean=2.50 in ±6)",beta
+Smp_126140.1,all,1372.0,Non-I (RGD-binding–like),,,,,alpha
+Smp_170280.1,all,1535.0,Non-I (parasite HENLA–DIDGDGID subclade),,,,,alpha
+Smp_245490.1,all,1467.0,"Non-I (laminin-binding–like, mucin-rich)",,,,,alpha
+Smp_306910.1,all,1286.0,Unassigned non-I (from features),,,,,alpha

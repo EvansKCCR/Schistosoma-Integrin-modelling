@@ -1,0 +1,5 @@
+seq_id,group,alpha_tail_motif,abs_pos_1based,KR_count_plus10
+Smp_126140.1,all,GFFKR_family_expanded:GFFHR,1336,2
+Smp_170280.1,all,GFFKR_family_expanded:GFFTR,1363,4
+Smp_245490.1,all,GFFRR,1332,4
+Smp_306910.1,all,GFFKR,1201,6

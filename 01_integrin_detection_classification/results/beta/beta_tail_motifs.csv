@@ -1,0 +1,3 @@
+seq_id,group,motif_class,motif,abs_pos_1based,st_flank_STcount
+Smp_089700.1,parasite,NPxF,NPIF,805,3
+Smp_089700.1,parasite,NPxF,NPTF,817,2

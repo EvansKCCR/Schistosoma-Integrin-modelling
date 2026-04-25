@@ -1,0 +1,7 @@
+Protein,TM,SP,GFF motif,FG-GAP,FG-GAP_count,Pairing ability,Pairing_score
+Smp_306910.1,✔,✔,❌,✔,3,🟢 HIGH,7
+Smp_126140.1,✔,✔,❌,✔,2,🟢 HIGH,6
+Smp_194920.1,✔,✔,❌,weak,0,🟡 MEDIUM,4
+Smp_245490.1,✔,✔,❌,weak,0,🟡 MEDIUM,4
+Smp_170280.1,✔,❌,❌,weak,1,🔴 LOW,3
+Smp_089700.1,✔,❌,❌,weak,0,🔴 LOW,2

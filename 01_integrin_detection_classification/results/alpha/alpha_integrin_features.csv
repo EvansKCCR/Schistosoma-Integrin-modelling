@@ -1,0 +1,5 @@
+ID,group,Alpha_integrin_subgroup,Alpha_integrin_subgroup_reason,Length,SignalPeptide,Cterm_TM,Tail_start_1based,GFFKR_count,GFFRS_count,GFFRR_count,GFF_relaxed_count,GFFKR_family_expanded_count,GFFKR_exact_flag,GFFxR_near_Cterm,NXS/T_count,DXSXS_count,DxD_count,RGD_flag,C..C_flag,HENLA_count,DIDGDGID_count,Ca_Dx[DN]xDG_count,Ca_NxDxxxD_count,alphaI_DXSXS_count,alphaI_DXSXT_count,alphaI_DXSX*_count,FGGAP_heuristic_count,NXS_T_count_per_seq
+Smp_126140.1,all,Non-I (RGD-binding–like),RGD present & α-tail hallmark/variant present,1372,True,True,1339,0,0,0,0,1,False,True,13,1,8,True,True,0,0,0,0,1,0,3,2,13
+Smp_170280.1,all,Non-I (parasite HENLA–DIDGDGID subclade),HENLA>0 & DIDGDGID>0,1535,False,False,1367,0,0,0,0,1,False,False,21,1,2,False,False,1,1,0,0,1,0,3,1,21
+Smp_245490.1,all,"Non-I (laminin-binding–like, mucin-rich)",NXS/T density 1.23 ≥ 1.0 per 100 aa & no RGD,1467,True,False,1336,0,0,1,0,0,False,True,18,1,10,False,False,0,0,0,1,1,2,5,0,18
+Smp_306910.1,all,Unassigned non-I (from features),No rule matched; consider phylogeny/HMM,1286,True,False,1203,1,0,0,0,0,True,True,11,0,3,False,False,0,0,0,2,0,0,3,3,11
