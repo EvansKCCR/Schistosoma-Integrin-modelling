@@ -151,7 +151,7 @@ Contributions are welcome.
 ---
 
 ## License
-MIT
+ Apache License
 
 ---
 
