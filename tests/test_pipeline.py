@@ -6,7 +6,7 @@ ROOT = Path(__file__).resolve().parents[1]
 def test_repository_structure():
     required_dirs = [
         "01_integrin_detection_classification",
-        "02_af3_output_evaluation",
+        "02_af3_output_evalution",
         "03_interface_benchmarking",
         "04_rgd_binding_assessment",
         "05_md_post_analysis_plots",
