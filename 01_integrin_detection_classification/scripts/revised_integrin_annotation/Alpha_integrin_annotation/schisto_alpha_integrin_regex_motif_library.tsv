@@ -1,0 +1,31 @@
+motif_id	subgroup	region	regex	weight	required	note
+SCHISTO_A2_BP1_DIDGDGID	Schistosome α2-like	β-propeller FG-GAP-like blade	F{1,2}GYSIARLGDIDGDGIDDVAISAP	4.0	True	α2-like diagnostic DIDGDGID-containing β-propeller motif
+SCHISTO_A2_TM_TAIL_GFFTR	Schistosome α2-like	TM/cytoplasmic tail	VGLWILMIL[SG]ALLYC[CS]GFFTR	4.0	True	α2-like divergent GFFTR tail presentation
+SCHISTO_A2_NTERM_CDPLWHT	Schistosome α2-like	N-terminal ectodomain	ISGAVIVYCDPLWHT	1.5	False	α2-like schistosome-enriched N-terminal motif
+SCHISTO_A2_DADGDG_WPE	Schistosome α2-like	β-propeller Ca2+/FG-GAP-associated block	DADGDGWPEFAVTSL	2.0	False	α2-like DADGDG-WPE motif
+SCHISTO_A2_GWLW_ETFFKLKSD	Schistosome α2-like	C-terminal ectodomain	GWLW[AS]ETFFKL[HK]KSD	1.5	False	α2-like membrane-proximal ectodomain motif
+SCHISTO_A2_KC_KQ_PLIDWSEC	Schistosome α2-like	ectodomain	KC[NY]KQ(?:EH|GQP)L[IV]DWSEC	1.5	False	α2-like cysteine/IDWSEC motif
+SCHISTO_A2_FINPLE_MDFKFI	Schistosome α2-like	C-terminal ectodomain	FINPLELTLMDFKFI	1.5	False	α2-like FINPLE-MDFKFI motif
+SCHISTO_A2_GPTKSTGL	Schistosome α2-like	ectodomain	GPTKSTGL[SHI]ILTRF[HY]	1.0	False	α2-like GPTKSTGL motif
+SCHISTO_A4_BP1_DYDGDNDD	Schistosome α4-like	β-propeller FG-GAP-like blade	[NH]FGF[AS]LTNLGD(?:YDGDG|FDSDG)NDD[IV][AG]VG[AS]P	4.0	True	α4-like diagnostic DYDGDGNDD/FDSDGNDD β-propeller presentation
+SCHISTO_A4_BP3_NGNG_GAPSHIFT	Schistosome α4-like	β-propeller shifted GAP-like block	[NS]GNG[MI]S[VI]LRV[HN][LI]KG[PS][YF][IL]KSV[IV][IM]GAP	3.0	False	α4-like shifted NGNG/SGNG motif replacing a canonical FG-GAP-like block
+SCHISTO_A4_TM_TAIL_GFFRR	Schistosome α4-like	TM/cytoplasmic tail	LGV[IL][CF]LYLLIILLYLLGFFRR	4.0	True	α4-like GFFRR tail presentation
+SCHISTO_A4_GWLWART_LFAKHISD	Schistosome α4-like	C-terminal ectodomain	GWLWARTLFAKHISD	1.5	False	α4-like C-terminal ectodomain motif
+SCHISTO_A4_QDLS_CDPLWRA	Schistosome α4-like	N-terminal ectodomain	QDLS(?:VFIY|IFVY|LFLY)CDPLWRA	1.5	False	α4-like CDPLWRA motif
+SCHISTO_A4_WLKRP_IDWSKC	Schistosome α4-like	ectodomain	[DN]G[GS]WLKRP[FLY]IDWSKC	1.5	False	α4-like WLKRP-IDWSKC motif
+SCHISTO_A4_VVNPRE_IPMDV	Schistosome α4-like	C-terminal ectodomain	VVNPRE[FL]IPMDV[KN]T[IV]	1.5	False	α4-like VVNPRE-IPMDV motif
+SCHISTO_A4_GPTK_MELQF	Schistosome α4-like	ectodomain	GPT[QK][ASQ][QK]G[TI]RMELQF[HY]	1.0	False	α4-like GPTK/GPTQ-MELQF motif
+SCHISTO_A4_WIADCH_FPPW	Schistosome α4-like	ectodomain	R[DY][QKT]WIADCH[YF][IL]FPPW	2.0	False	α4-like WIADCH-FPPW motif
+SCHISTO_A1_BP1_RFGHALTN	Schistosome α1-like	β-propeller FG-GAP-like blade	RFGHALTNIGD[IMV]DGDGTEDLAVSCP	4.0	True	α1-like RFGHALTN β-propeller motif
+SCHISTO_A1_BP2_SYFGYS	Schistosome α1-like	β-propeller FG-GAP-like blade	SYFGYSLAVADLDGNGL[AV]DIIVGAP	2.5	False	α1-like second FG-GAP-like motif
+SCHISTO_A1_TM_TAIL_GFFHR	Schistosome α1-like	TM/cytoplasmic tail	LGLALLALLIFTMWRCGFFHR|GFFHR	3.0	False	α1-like GFFHR tail variant
+SCHISTO_A1_DLDGNHAP	Schistosome α1-like	β-propeller Ca2+/FG-GAP-associated block	DLDGN[HY]APDLV[IV]GDY	1.5	False	α1-like DLDGNH/YAP motif
+SCHISTO_A1_GWIWAD	Schistosome α1-like	C-terminal ectodomain	GWIWADTFFR[HY]KISD	1.5	False	α1-like GWIWAD motif
+SCHISTO_A3_BP1_GFGATITK	Schistosome α3-like	β-propeller FG-GAP-like blade	GFGA[AT]ITKLGDINHDG[YF]QD[FL][AI]?[VI]GAP	4.0	True	α3-like GFGAT/AITK β-propeller motif
+SCHISTO_A3_BP2_SRFGHSL	Schistosome α3-like	β-propeller FG-GAP-like blade	SRFGHSL[LI]F[LI]DINGD[NG]WDDLI[IV]GAP	2.5	False	α3-like second FG-GAP-like motif
+SCHISTO_A3_TM_TAIL_GFFKR	Schistosome α3-like	TM/cytoplasmic tail	GGLLLLSILVIILYKAGFFKR|GFFKR	2.0	False	α3-like canonical GFFKR tail
+SCHISTO_A3_DLDENGYP	Schistosome α3-like	β-propeller Ca2+/FG-GAP-associated block	DLDENGYPDMAIGA[AT]	1.5	False	α3-like DLDENGYP motif
+SCHISTO_A3_SSVAVLRARPVVK	Schistosome α3-like	ectodomain	SSVAVLRARPVVKL[RN]	1.5	False	α3-like SSVAVLRARPVVK motif
+ALPHA_GENERAL_RGD	General α-integrin annotation	ligand-binding ectodomain	RGD	0.5	False	RGD-compatible motif; annotative only
+ALPHA_GENERAL_NGLYCO	General α-integrin annotation	ectodomain	N[^P][ST]	0.0	False	N-glycosylation sequon; density reported separately
+ALPHA_GENERAL_GFFXR_TAIL	General α-integrin annotation	cytoplasmic tail	GFF.R	0.5	False	Generic α-integrin GFFxR tail family

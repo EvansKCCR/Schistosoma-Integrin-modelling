@@ -1,0 +1,5 @@
+seq_id,canonical_id,subgroup,source_class,score,required_hits,diagnostic_hits
+Smp_089700.1,beta-Int1,Schistosome_beta_Int1_ITGB2_like,parasite,24.0,6,8
+Smp_089700.1,beta-Int1,beta_integrin_general,general,3.5,0,0
+sp|P05107|ITB2_HUMAN,sp|P05107|ITB2_HUMAN,Human_beta_integrin_like,human,15.0,4,6
+sp|P05107|ITB2_HUMAN,sp|P05107|ITB2_HUMAN,beta_integrin_general,general,4.0,0,0

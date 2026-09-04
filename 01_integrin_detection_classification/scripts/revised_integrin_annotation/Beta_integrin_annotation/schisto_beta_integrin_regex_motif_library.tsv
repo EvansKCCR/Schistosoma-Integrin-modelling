@@ -1,0 +1,47 @@
+motif_id	subgroup	source_class	region	regex	weight	required	diagnostic	max_hits	description
+BETA_MIDAS_DXSXS	beta_integrin_general	general	full	D.S.S	1.5	False	accessory	5	Generic βI-like MIDAS 5-mer class DXSXS; annotation support only.
+BETA_MIDAS_DXSXT	beta_integrin_general	general	full	D.S.T	1.0	False	accessory	5	Generic βI-like MIDAS 5-mer class DXSXT; annotation support only.
+BETA_TAIL_NPxY	beta_integrin_general	general	cterm160	NP.Y	1.5	False	accessory	5	Generic β-integrin PTB-binding NPxY motif in C-terminal/tail region.
+BETA_TAIL_NPxF	beta_integrin_general	general	cterm160	NP.F	1.5	False	accessory	5	Generic β-integrin NPxF motif in C-terminal/tail region.
+BETA_TM_HDXR_GENERIC	beta_integrin_general	general	cterm220	[LIV]{2,3}.{0,4}[WY][KR].{0,5}(?:HDR|DDR|YDR|SDL)[RK]E	1.0	False	accessory	3	Generic β-integrin transmembrane/juxtamembrane HDxR-like region, expanded to include parasite DDR variants.
+BETA_EGF_CYS_GENERIC	beta_integrin_general	general	full	C.{1,4}C.{1,5}C.{1,5}C	0.5	False	accessory	10	Generic cysteine-rich I-EGF-like pattern; broad annotation support only.
+P_B01_PSI_YFLTD	Schistosome_beta_Int1_ITGB2_like	parasite	full	YPVDLYFLTDLSYTM	3.0	True	diagnostic	1	Parasite-specific PSI/βI-domain-proximal motif; block 1.
+P_B02_GNLDSPEGGMD	Schistosome_beta_Int1_ITGB2_like	parasite	full	GNLDSPEGGMDALLQ	3.0	True	diagnostic	1	Parasite-specific hybrid-domain motif with GMDALLQ presentation; block 2.
+P_B03_QMGFGAFVDK	Schistosome_beta_Int1_ITGB2_like	parasite	full	QMGFGAFVDKPVFPF	3.0	True	diagnostic	1	Parasite-specific βI-like GFGAF motif beginning QMG; block 3.
+P_B04_CDPPFLYKH	Schistosome_beta_Int1_ITGB2_like	parasite	full	CDPPFLYKHILSLTD	2.5	False	diagnostic	1	Parasite-specific conserved extracellular motif; block 4.
+P_B05_CSGRGVCDC	Schistosome_beta_Int1_ITGB2_like	parasite	full	CSGRGVCDCGQCFCN	2.0	False	support	1	Parasite cysteine-rich/I-EGF-like motif; block 5.
+P_B06_CSGRGRCVC	Schistosome_beta_Int1_ITGB2_like	parasite	full	CSGRGRCVCGKCKCN	2.0	False	support	1	Parasite cysteine-rich/I-EGF-like motif; block 6.
+P_B07_VARCSEIGWR	Schistosome_beta_Int1_ITGB2_like	parasite	full	VARCSE[AI]IGWRAGAR	2.5	False	diagnostic	1	Parasite-specific CSE/IGWRAGAR presentation; block 7.
+P_B08_YEGTFCECDR	Schistosome_beta_Int1_ITGB2_like	parasite	full	YEGT[FY]CECDRHGCKR	2.5	False	diagnostic	1	Parasite-specific cysteine-rich motif with DRHGCKR ending; block 8.
+P_B09_QVLTEADISV	Schistosome_beta_Int1_ITGB2_like	parasite	full	QVLTEADISVIFAVD	2.5	False	diagnostic	1	Parasite-specific βI/hybrid-domain motif; block 9.
+P_B10_LFASDGGFHL	Schistosome_beta_Int1_ITGB2_like	parasite	full	LFASDGGFHLAGDGR	3.0	True	diagnostic	1	Parasite-specific acidic-metal-site-associated motif; block 10.
+P_B11_CECKPGYTGDR	Schistosome_beta_Int1_ITGB2_like	parasite	full	CEC[KR]PGYTGDRCDCM	2.0	False	support	1	Parasite cysteine-rich motif; block 11.
+P_B12_WHNSDQTDYP	Schistosome_beta_Int1_ITGB2_like	parasite	full	WHNSDQTDYPSVGEI	2.5	False	diagnostic	1	Parasite-specific βI/hybrid-domain motif; block 12.
+P_B13_TM_IDDRRE	Schistosome_beta_Int1_ITGB2_like	parasite	cterm220	LLIYKLVITIDDRRE	3.0	True	diagnostic	1	Parasite transmembrane/juxtamembrane motif with IDDRRE instead of canonical HDR/SDL presentation; block 13.
+P_B14_IAGLPPPTTC	Schistosome_beta_Int1_ITGB2_like	parasite	full	IAGL[IV][LR]PPPTTCQLT	2.5	False	diagnostic	1	Parasite-specific extracellular motif replacing human PNDG/CHL region; block 14.
+P_B15_TAIL_ENPIF	Schistosome_beta_Int1_ITGB2_like	parasite	cterm160	ENMRWEMAENPIFES	3.0	True	diagnostic	1	Parasite β-tail/terminal motif containing ENPIF; block 15.
+P_B16_CGECKCQSGY	Schistosome_beta_Int1_ITGB2_like	parasite	full	CGECKCQSGYSGDFC	2.0	False	support	1	Parasite cysteine-rich motif; block 16.
+P_B17_MATYDADYLE	Schistosome_beta_Int1_ITGB2_like	parasite	full	MATYDADYLEVQVFS	3.0	False	diagnostic	1	Parasite-only motif in submitted set; block 17.
+P_B18_QTACSCPSCE	Schistosome_beta_Int1_ITGB2_like	parasite	full	QTACSCPSCEK[LM]PMP	2.5	False	diagnostic	1	Parasite-only cysteine-rich motif; block 18.
+P_B19_NQVCGGPQRG	Schistosome_beta_Int1_ITGB2_like	parasite	full	NQVCGGPQRG[ST]CQCN	2.5	False	diagnostic	1	Parasite-biased cysteine-rich motif; block 19.
+P_B20_TAIL_LNPTF	Schistosome_beta_Int1_ITGB2_like	parasite	cterm160	PTTNVLNPTFEENGY	3.0	False	diagnostic	1	Parasite β-tail motif containing LNPTF; block 20.
+P_B21_AIYVNRKVDL	Schistosome_beta_Int1_ITGB2_like	parasite	full	AIYVNRKVDLNIIRK	2.5	False	diagnostic	1	Parasite-only motif; block 21.
+P_B22_KIYQISIKAK	Schistosome_beta_Int1_ITGB2_like	parasite	full	KI[GN]YQISIKAKRCF	2.5	False	diagnostic	1	Parasite-only motif; block 22.
+P_B23_ENEFSKKTVC	Schistosome_beta_Int1_ITGB2_like	parasite	full	ENEFSKKTVCNDHPV	2.5	False	diagnostic	1	Parasite-only motif; block 23.
+P_B24_TMIVNFTFQSI	Schistosome_beta_Int1_ITGB2_like	parasite	full	TM[IM]VNFTFQSI	2.0	False	support	1	Parasite N-terminal/extracellular motif; block 24.
+P_B25_SLTPFSARCQ	Schistosome_beta_Int1_ITGB2_like	parasite	full	SLTPFSARCQLRGH	2.5	False	diagnostic	1	Parasite-only motif; block 25.
+P_B26_KKVNLKMVAL	Schistosome_beta_Int1_ITGB2_like	parasite	full	KKV[NT]LKMVALEDQAV	2.5	False	diagnostic	1	Parasite-only motif; block 26.
+P_B27_AAMLAQCTE	Schistosome_beta_Int1_ITGB2_like	parasite	full	A[AT]MLAQCTE[SY]GVKEP	2.5	False	diagnostic	1	Parasite-only motif; block 27.
+H_B01_PSI_YILMD	Human_beta_integrin_like	human	full	[SY]P[IV]D[IL]Y[IY]L[MV]D[FLV]S[ANY]SM	2.5	True	diagnostic	1	Human β-integrin PSI/βI-proximal motif; excludes parasite YFLTD presentation.
+H_B02_GNLDSPEGGFD	Human_beta_integrin_like	human	full	[AGR]N[ILR]D[AST]PEGG[FL]DA[IM][LM]Q	2.5	True	diagnostic	1	Human β-integrin hybrid-domain motif with FDA/LDA presentation.
+H_B03_RIGFGS	Human_beta_integrin_like	human	full	[RT][IL]GFG[AKS][FY]V[DE]K[PTV][SV][LMSV]P[FQY]	2.5	False	diagnostic	1	Human βI-like GFG motif presentation; excludes parasite QMGFGAFVDKPVFPF.
+H_B04_CPPFGYKH	Human_beta_integrin_like	human	full	[CS].[PS][MPT][FH][AGS][FY][HIKR][HN][IV][IL][KPST]LT[DEGN]	2.0	False	support	1	Human extracellular motif consensus from block 4.
+H_B05_CSGRGDCY	Human_beta_integrin_like	human	full	CS[GNQ][KLNR]G[DEHV]C[LQVY]CG[HKQR]C[ILSV]C[HRSY]	2.0	False	support	1	Human cysteine-rich/I-EGF motif consensus from block 5.
+H_B06_CSGRGTCV	Human_beta_integrin_like	human	full	C[NS]G[HR]G.C[EKRV]C[GN][KRSV]C.C[HILT]	2.0	False	support	1	Human cysteine-rich/I-EGF motif consensus from block 6.
+H_B07_IGWRNV	Human_beta_integrin_like	human	full	[ATV][AT][ALV]C[ERS].IGWR[KNP][DEV][AST].	2.5	False	diagnostic	1	Human IGWR region with RNV/RND/RKE-like presentation rather than parasite IGWRAGAR.
+H_B09_QKLSENNI	Human_beta_integrin_like	human	full	.[AKL]L[AISV].[AHKN]N[IV][ILNQ][LPTV]IFAV[QT]	2.0	False	support	1	Human βI/hybrid-domain motif consensus from block 9.
+H_B10_VFATDDGF	Human_beta_integrin_like	human	full	[LV][FV].[ST][DE][ADQS].[FST]H.[AEG][AGLM]D[GS][AKR]	2.5	False	diagnostic	1	Human metal-site-associated motif consensus from block 10; differs from parasite LFASDGGFHLAGDGR.
+H_B12_DYPSVGQL	Human_beta_integrin_like	human	full	Y[KSTV].[SY][HNRT][ETVY].[DE][HY]P[ST][ILV][AGP][HLQT][LMV]	2.0	False	support	1	Human DYPS/HPST region consensus from block 12.
+H_B13_TM_HDR	Human_beta_integrin_like	human	cterm220	(?:LLIWKLL[IM]I[IH]HDR[KR]E|LCIWKLLVSFHDRKE|LVIWKALIHLSDLRE|VLAYRLSVEIYDRRE)	2.5	True	diagnostic	1	Human transmembrane/juxtamembrane HDR/SDL/YDR presentation; block 13.
+H_B14_PNDGCHL	Human_beta_integrin_like	human	full	L[AG][AG]I[FLMV].[PR][NS]D[EG].CH[LV][DEGK]	2.5	False	diagnostic	1	Human PNDG/CHL-like motif; excludes parasite PPPTTCQLT motif.
+H_B15_TAIL_NPLY_NPIY	Human_beta_integrin_like	human	cterm160	NPL[YT]|NPIY	2.5	True	diagnostic	3	Human β-tail NPLY/NPIY-like motif presentation from submitted human set.
